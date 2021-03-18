@@ -1,0 +1,7 @@
+VR BODY PROJECT
+	+ 2 Clipping boxes
+	+ Lines connect slide thumb with the edge of the box
+	+ Pivot Point is not at the middle
+	+ Slide show of organ
+	+ Heart Anim
+
